@@ -1,0 +1,345 @@
+@charset "utf-8";
+ body  {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #FFFFFF;
+	background-image: url(../images/backgroundAC.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+        
+}
+.texthead {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+}
+.infocontactbold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	line-height: normal;
+	color: #333333;
+}
+.infocontact {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	line-height: normal;
+	color: #333333;
+}
+.mail {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	line-height: 8px;
+	color: #333333;
+}
+.mail:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	line-height: normal;
+	color: #FF0000;
+}
+.infolegalnb {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #333333;
+	text-decoration: none;
+}
+.infolegalnb:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #00CCFF;
+	text-decoration: none;
+}
+.infolegal {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #333333;
+	text-decoration: none;
+}
+.modulerealisations {
+	background-image: url(../images/modulerealisations.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.modulerealisations:hover {
+	background-image: url(../images/modulerealisations.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	cursor: pointer;
+}
+.moduleprestations {
+	background-image: url(../images/moduleprestations.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.moduleprestations:hover {
+	background-image: url(../images/moduleprestations.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	cursor: pointer;
+}
+.modulequalite {
+	background-image: url(../images/modulequalite.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.modulequalite:hover {
+	background-image: url(../images/modulequalite.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	cursor: pointer;
+}
+.modulehandibat {
+	background-image: url(../images/modulehandibat.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.modulehandibat:hover {
+	background-image: url(../images/modulehandibat.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	cursor: pointer;
+}
+.moduleinfos {
+	background-image: url(../images/moduleinfos.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.moduleinfos:hover {
+	background-image: url(../images/moduleinfos.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	cursor: pointer;
+}
+.moduleenvironnement {
+	background-image: url(../images/moduleenvironnement.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.moduleenvironnement:hover {
+	background-image: url(../images/moduleenvironnement.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	cursor: pointer;
+}
+.moduletext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #000000;
+	text-align: justify;
+	margin-top: 170px;
+	margin-left: 10px;
+	margin-right: 10px;
+        height:94px;
+}
+.menufooter {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #626157;
+}
+.menufooter:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #F19300;
+	text-decoration: none;
+	background-color: #626157;
+}
+.footer {
+	background-color: #626157;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}.textintro {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	color: #000000;
+	text-decoration: none;
+	text-align: justify;
+	vertical-align: top;
+	margin-right: 20px;
+}
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	color: #000000;
+	text-decoration: none;
+	text-align: justify;
+	vertical-align: top;
+}
+#conteneur p.textflash,a.textflash {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: normal;
+	color: #F19300;
+	text-decoration: none;
+	text-align: right;
+	vertical-align: top;
+	font-weight: bold;
+}
+.textcharte,.textcharte p{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	color: #000000;
+	text-decoration: none;
+	text-align: left;
+	vertical-align: middle;
+}
+.textbook {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: normal;
+	color: #F19300;
+	text-decoration: none;
+	text-align: left;
+	vertical-align: top;
+	font-weight: bold;
+        margin:10px 0;
+}
+
+/*MODIFICATION NCM CONSEIL*/
+#conteneur{
+       width:1092px;
+       margin:0 auto;
+       position:relative;
+      
+}
+
+h1{
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 10px;
+       position:absolute;
+       top:0;
+       right:43px;
+       font-weight:normal;
+       color:#666;
+       margin:0;
+       padding:0;
+}
+.orange{
+       color:#F19300;
+}
+.gras{
+       font-weight:bold;
+}
+h2{
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 20px;
+       font-style: normal;
+       line-height: normal;
+       font-weight: bold;
+       font-variant: normal;
+       text-transform: none;
+       color: #000000;
+       text-decoration: none;
+       margin:0;
+       padding:0;
+}
+p{
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 14px;
+       font-style: normal;
+       color: #000000;
+       text-align: justify;
+       margin:0;
+       padding:0;
+   
+}
+#menu {
+       height:27px;
+       margin:0;
+       padding:0;
+}
+#menu a{
+       border:none;
+       outline:none;
+       height:27px;
+       margin:0;
+       padding:0;
+       float:left;
+}
+.textintro p{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	color: #000000;
+	text-decoration: none;
+	text-align: justify;
+	vertical-align: top;
+        margin-bottom:10px;
+}
+
+.seo{
+       color:#F19300;
+       font-family: Arial,Helvetica,sans-serif;
+       font-size: 14px;
+       font-style: italic;
+       font-weight: bold;
+       line-height: normal;
+       text-align: right;
+       text-decoration: none;
+       vertical-align: top;
+       display:block;
+}
+
+
+/*---*/
