@@ -1,4 +1,4 @@
-<h1>Artisans Consult (Before WCS Internship)</h1>
+<h1>Artisans Consult (Before WCS Internship, WCS Web PHP)</h1>
 
 ### This repo contains the website code of <b>"Artisans Consult"</b> before the start of the internship
 
