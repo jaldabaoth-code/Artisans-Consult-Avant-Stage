@@ -7,7 +7,7 @@
 
 ### Steps
 
-1. Clone the repo from Github : `git clone git@github.com:jaldabaoth-code/Artisans-Consult-Before-Internship.git`
+1. Clone the repo from GitHub : `git clone git@github.com:jaldabaoth-code/Artisans-Consult-Before-Internship.git`
 2. Enter the directory : `cd Artisans-Consult-Before-Internship`
 3. Run the internal PHP webserver with `php -S localhost:8000`
 4. Go to <b>localhost:8000</b> with your favorite browser
